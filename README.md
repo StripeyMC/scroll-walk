@@ -8,6 +8,7 @@ Unofficial Fabric port of **Scroll Walk** to Minecraft 26.3.
 
 - Original mod: https://modrinth.com/mod/scroll-walk
 - Original source code: https://github.com/Naw7k/Scroll-Walk
+- Downloads: https://www.curseforge.com/minecraft/mc-mods/scroll-walk-26-2-port
 
 If the original author would like anything here changed or removed, please open an issue and it will be taken care of right away.
 
